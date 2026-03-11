@@ -70,3 +70,7 @@ Desarrollar una plataforma digital que permita:
 • Capacidad de agregar nuevas ciudades fácilmente.
 • Integración con APIs externas de mapas y transporte público.
 • Escalabilidad ante picos de demanda (horas punta)
+
+
+Integrantes:
+Paz Molina
